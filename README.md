@@ -1,4 +1,3 @@
-# patent-brainstroke_prediction_using_machinelearning_neuralmodels_a_comparitive_study
 # 🧠 Brain Stroke Prediction System and Method Thereof – Patent
 
 ## 📜 Patent Title
